@@ -1,10 +1,14 @@
 {
-    "name": "squareboat/sneaker",
+    "name": "shadowdani/sneaker",
     "description": "An easy way to send emails with stack trace whenever an exception occurs on the server for Laravel Applications.",
     "type": "library",
     "license": "MIT",
     "keywords": ["laravel", "exceptions", "email"],
     "authors": [
+        {
+            "name": "Daniele"
+            "email": "shadowdani@gmail.com"
+        },
         {
             "name": "Amit Gupta",
             "email": "akaamitgupta@gmail.com"
